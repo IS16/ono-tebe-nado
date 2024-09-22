@@ -44,8 +44,8 @@
 }
 
 .header__logo {
-    width: 148px;
-    height: 105px;
+    width: 136px;
+    height: 106px;
     margin-right: 146px;
 }
 
@@ -269,7 +269,7 @@
 .lots__look-more-link {
     width: 192px;
 
-    margin-top: 30px;
+    margin-top: 29px;
     margin-left: 40px;
 
     font-size: 20px;
@@ -343,7 +343,12 @@
 
 .footer__address {
     margin-top: -2px;
-    margin-left: 0.8px;
+    margin-left: 0.9px;
+}
+
+.footer__menu {
+    margin-top: -2px;
+    margin-left: -1px;
 }
 
 .footer__menu-list {
@@ -369,6 +374,7 @@
 }
 
 .footer__social-list {
+    margin-top: -2px;
     display: flex;
     justify-content: space-between;
     width: 240px;
