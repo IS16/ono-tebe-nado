@@ -322,14 +322,14 @@
 .about__text p {
     font-size: 20px;
     font-weight: 400;
-    line-height: 23px;
+    line-height: 24px;
     letter-spacing: 0;
     text-align: left;
-    padding-bottom: 30px;
+    padding-bottom: 24px;
 }
 
 .about__text p:first-child {
-    padding-top: 103px;
+    padding-top: 98px;
 }
 
 .footer {
