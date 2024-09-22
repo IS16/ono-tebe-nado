@@ -178,8 +178,7 @@
     text-transform: uppercase;
     width: 256px;
     min-height: 51px;
-
-    margin-left: 76px;
+    margin-left: 76.1px;
 }
 
 .lots {
@@ -296,8 +295,8 @@
     width: 240px;
     height: 240px;
     border-radius: 50%;
-    margin-left: 47px;
-    margin-top: 35px;
+    margin-left: 47.5px;
+    margin-top: 37px;
     background-color: black;
 }
 
@@ -307,7 +306,7 @@
 }
 
 .about__column {
-    margin-top: 133px;
+    margin-top: 138px;
     margin-left: 2px;
     width: 690px;
 }
