@@ -285,7 +285,6 @@
     padding: 0 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-auto-rows: 487px;
     grid-column-gap: 10px;
 }
 
@@ -336,11 +335,11 @@
 }
 
 .about__text p:first-child {
-    padding-top: 98px;
+    padding-top: 99px;
 }
 
 .footer {
-    margin-top: 291px;
+    margin-top: 160px;
     margin-bottom: 88px;
     width: 1000px;
 
